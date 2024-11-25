@@ -19,7 +19,6 @@ Welcome to my Data Analytics portfolio! In this repository, you will find a coll
   - [Project 11: ChemCorp Sales Analysis](#project-11-chemcorp-sales-analysis)
 - [Skills](#skills)
 - [Technologies](#technologies)
-- [How to Run the Projects](#how-to-run-the-projects)
 - [Contact](#contact)
 
 ---
