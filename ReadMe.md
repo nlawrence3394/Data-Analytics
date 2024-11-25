@@ -8,7 +8,7 @@ Welcome to my Data Analytics portfolio! In this repository, you will find a coll
 - [Projects](#projects)
   - [Project 1: Airbnb Case Study](#project-1-airbnb-case-study)
   - [Project 2: Capstone - Employee Retention](#project-2-capstone-employee-retention)
-  - [Project 3: Capstone Presentation - Non-Technical](#project-3-capstone-presentation-nontechnical)
+  - [Project 3: Capstone Presentation - Non-Technical](#project-3-capstone-presentation-non-technical)
   - [Project 4: Capstone Presentation - Technical](#project-4-capstone-presentation-technical)
   - [Project 5: Capstone Presentation - Executive](#project-5-capstone-presentation-executive)
   - [Project 6: Southern Water Corp Economic Analysis](#project-6-economic-analysis)
