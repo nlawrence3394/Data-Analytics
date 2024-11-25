@@ -39,7 +39,7 @@ My goal is to leverage my analytical skills and data-driven insights to help org
 **Objective**: Analyze revenues based on neighborhoods and room type to identify highest earning locations
 - **Tools Used**: Python (Pandas, Matplotlib)
 
-[View Project Notebook on GitHub](project-1-airbnb-case-study/Nicole Naylor Airbnb Case Study.ipynb)
+[View Project Notebook on GitHub](project-1-airbnb-case-study/Nicole_Naylor_Airbnb_Case_Study.ipynb)
 
 ### Project 2: Capstone - Employee Retention
 
@@ -47,7 +47,7 @@ My goal is to leverage my analytical skills and data-driven insights to help org
 
 - **Tools Used**: Python (Pandas, Matplotlib, NumPy, Seaborn)
 
-[View Project Notebook on GitHub](project-2-capstone-2/Nicole Naylor Capstone two.ipynb)
+[View Project Notebook on GitHub](project-2-capstone-2/Nicole_Naylor_Capstone_two.ipynb)
 
 ### Project 3: Capstone Presentation - Non-Technical
 
@@ -80,7 +80,7 @@ My goal is to leverage my analytical skills and data-driven insights to help org
 
 - **Tools Used**: Excel
 
-[Download Economic Analysis](project-6-economic-analysis/Nicole Naylor Economic What If Analysis Part III.xlsx)
+[Download Economic Analysis](project-6-economic-analysis/Nicole_Naylor_Economic_What_If_Analysis_Part_III.xlsx)
 
 ### Project 7: Southern Water Corp Financial Case Study
 
@@ -88,7 +88,7 @@ My goal is to leverage my analytical skills and data-driven insights to help org
 
 - **Tools Used**: Excel
 
-[Download Financial Case Study](project-7-financial-case-study/Nicole Naylor Southern Water Corp Financial Case Study.xlsx)
+[Download Financial Case Study](project-7-financial-case-study/Nicole_Naylor_Southern_Water_Corp_Financial_Case_Study.xlsx)
 
 ### Project 8: Southern Water Corp Presentation
 
@@ -96,7 +96,7 @@ My goal is to leverage my analytical skills and data-driven insights to help org
 
 - **Tools Used**: Powerpoint
 
-[Download Presentation](project-8-southern-water-presentation/Nicole Naylor Southern Water Corp Executive.pptx)
+[Download Presentation](project-8-southern-water-presentation/Nicole_Naylor_Southern_Water_Corp_Executive.pptx)
 
 ### Project 9: AEMR Case Study
 
